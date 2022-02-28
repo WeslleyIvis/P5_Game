@@ -1,5 +1,5 @@
 # P5_Game.
-O jogo foi desenvolvido no frameWork - P5, com ajuda da imersão_dev da alura.
+O jogo foi desenvolvido no frameWork - P5.
 
 https://weslleyivis.github.io/P5_Game/
 
