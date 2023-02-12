@@ -1,5 +1,6 @@
 # P5_Game.
 O jogo foi desenvolvido no frameWork - P5.
+Obs: esse jogo é apenas um prototypo.
 
 https://weslleyivis.github.io/P5_Game/
 
